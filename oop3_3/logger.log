@@ -1,0 +1,18 @@
+июл. 17, 2023 8:22:59 PM org.example.oop3_3.Logs addModeGame
+INFO: Пользователь выбрал режим 1
+июл. 17, 2023 8:23:07 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел 345
+июл. 17, 2023 8:23:09 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел 678
+июл. 17, 2023 8:23:10 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел 567
+июл. 17, 2023 8:23:32 PM org.example.oop3_3.Logs addModeGame
+INFO: Пользователь выбрал режим 3
+июл. 17, 2023 8:23:38 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел dfgh
+июл. 17, 2023 8:23:40 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел fghj
+июл. 17, 2023 8:23:42 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел dfgh
+июл. 17, 2023 8:23:43 PM org.example.oop3_3.Logs addInfo
+INFO: Пользователь ввел 
